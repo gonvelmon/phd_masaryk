@@ -1,0 +1,85 @@
+species,n,area,history
+Anthriscus cerefolium,25,2,annual
+Arabis auriculata,94,2,annual
+Arenaria serpyllifolia,681,10,annual
+Bromus japonicus,252,2,annual
+Bromus tectorum,72,2,annual
+Camelina microcarpa,93,10,annual
+Erodium cicutarium,246,1,annual
+Holosteum umbellatum,83,2,annual
+Lamium amplexicaule,318,1,annual
+Lappula squarrosa,101,4,annual
+Medicago lupulina,3,10,annual
+Medicago minima,665,1,annual
+Microthlaspi perfoliatum,87,2,annual
+Myosotis arvensis,5,10,annual
+Senecio vulgaris,10,10,annual
+Trifolium arvense,150,1,annual
+Valerianella locusta,24,1,annual
+Veronica arvensis,40,2,annual
+Veronica praecox,170,5,annual
+Veronica sublobata,254,8a,annual
+Veronica verna,7,10,annual
+Boraginaceae,90,NA,short-lived perennial
+Brassicaceae,3,NA,short-lived perennial
+Bromus sp.,104,NA,annual
+Buglossoides incrassata,143,2,annual
+Cerastium sp.,220,NA,annual
+Erophila spathulata,9,NA,annual
+Festuca rupicola,3,NA,perennial
+Hypericum perforatum,2,NA,perennial
+Jovibarba globifera,3,5,perennial
+Lotus corniculatus,20,8d,perennial
+Odontites vernus,1,NA,annual
+Saxifraga tridactylites,42,NA,annual
+Securigera varia,2,NA,annual
+Veronica sp.,4,NA,annual
+Achillea collina,51,5,perennial
+Allium flavum,92,5,perennial
+Alyssum montanum subsp. gmelinii,62,4,perennial
+Arrhenatherum elatius,314,8a,perennial
+Artemisia absinthium,96,10,perennial
+Artemisia campestris,21,4,perennial
+Carex praecox,82,4,perennial
+Carex supina,57,4,perennial
+Convolvulus arvensis,54,10,perennial
+Dianthus pontederae,181,5,perennial
+Elymus hispidus,63,2,perennial
+Euphorbia cyparissias,13,10,perennial
+Festuca csikhegyensis,14,5,perennial
+Festuca valesiaca,361,4,perennial
+Fragaria viridis,10,10,perennial
+Gagea pusilla,158,4,perennial
+Galium glaucum,63,5,perennial
+Galium verum,19,10,perennial
+Inula oculus-christi,33,5,perennial
+Iris pumila,19,4,perennial
+Koeleria macrantha,98,10,perennial
+Melica ciliata,338,5,perennial
+Phleum phleoides,258,4,perennial
+Poa angustifolia,17,10,perennial
+Poa badensis,8,5,perennial
+Poa bulbosa,42,2,perennial
+Potentilla incana,331,4,perennial
+Ranunculus illyricus,117,2,perennial
+Scabiosa ochroleuca,11,4,perennial
+Sedum album,555,1,perennial
+Seseli osseum,195,5,perennial
+Taraxacum sect. Erythrosperma,38,2,perennial
+Teucrium chamaedrys,709,1,perennial
+Thymus praecox,10,5,perennial
+Veronica prostrata,20,4,perennial
+Vincetoxicum hirundinaria,2,4,perennial
+Viola tricolor subsp. saxatilis,22,8a,perennial
+Acinos arvensis,529,8a,short-lived perennial
+Alyssum alyssoides,455,5,short-lived perennial
+Centaurea stoebe,290,5,short-lived perennial
+Echium vulgare,541,10,short-lived perennial
+Erysimum odoratum,9,8d,short-lived perennial
+Geranium pusillum,149,2,short-lived perennial
+Hesperis tristis,34,5,short-lived perennial
+Lepidium campestre,211,8a,short-lived perennial
+Minuartia rubra,160,6,short-lived perennial
+Tragopogon dubius,12,2,short-lived perennial
+Trifolium campestre,20,1,short-lived perennial
+Verbascum lychnitis,275,5,short-lived perennial
